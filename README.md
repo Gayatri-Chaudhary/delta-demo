@@ -1,2 +1,2 @@
 # delta-demo
-this is demo of delta batch.
+this is demo of delta batch..
